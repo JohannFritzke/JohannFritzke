@@ -28,4 +28,4 @@
 
 ### 💬 Vamos conversar?
 
-Me chama no [linkedin](https://www.linkedin.com/in/johann-fritzke-5727b51a2/) ou confira meus repositórios aqui no GitHub!
+Me chama no [Linkedin](https://www.linkedin.com/in/johann-fritzke-5727b51a2/) ou confira meus repositórios aqui no GitHub!
