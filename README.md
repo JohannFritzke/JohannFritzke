@@ -12,7 +12,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailWindCSS"/></code>
-
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
 
